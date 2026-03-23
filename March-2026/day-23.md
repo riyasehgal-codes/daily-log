@@ -30,5 +30,4 @@
 - Started exploring data visualization tools like Tableau  
 - Consistency in both coding and career prep is key  
 
-### Tags
-#dsa #leetcode #twopointers #matrix #placements #nimcet #math #tableau
+
