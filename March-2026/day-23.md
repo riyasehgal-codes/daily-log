@@ -2,7 +2,8 @@
 
 ### What I Learned
 - Practiced Logarithms for NIMCET preparation  
-- Gained deeper understanding of two-pointer and matrix traversal techniques  
+- Explored Tableau basics for data visualization  
+- Strengthened understanding of two-pointer and matrix traversal techniques  
 
 ### What I Practiced / Built
 - Solved LeetCode Problem 240 (Search a 2D Matrix II)  
@@ -26,7 +27,8 @@
 ### Fix / Takeaway
 - Learned how optimal pointer movement reduces time complexity  
 - Improved problem visualization for array-based questions  
+- Started exploring data visualization tools like Tableau  
 - Consistency in both coding and career prep is key  
 
 ### Tags
-#dsa #leetcode #twopointers #matrix #placements #nimcet #math
+#dsa #leetcode #twopointers #matrix #placements #nimcet #math #tableau
