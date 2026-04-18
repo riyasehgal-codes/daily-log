@@ -1,1 +1,23 @@
 
+## Date: 16 April 2026
+
+### What I Learned
+- Operating Systems:
+  - CPU Scheduling Algorithms (FCFS, SJF, SRTF, Priority, Round Robin)  
+- Strengthened understanding of backtracking patterns  
+
+### What I Practiced / Built
+- Solved LeetCode Problem (Combination Sum II)  
+  - Used backtracking to generate combinations  
+  - Sorted the array to handle duplicates  
+  - Skipped duplicate elements to ensure unique combinations  
+  - Ensured each element is used only once  
+
+### Problems Faced
+- Handling duplicates correctly in combinations  
+- Managing recursion and backtracking flow  
+
+### Fix / Takeaway
+- Sorting + skipping duplicates is key in combination problems  
+- Backtracking requires careful control of indices and state  
+- Scheduling algorithms differ based on criteria like waiting time, turnaround time, and response time  
