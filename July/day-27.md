@@ -22,5 +22,3 @@
 - Consistent practice on Binary Tree problems improved my understanding of recursion and traversal patterns.
 - Completing the Fraud Detection project strengthened my knowledge of the complete machine learning workflow, from preprocessing to model deployment.
 
-### Tags
-#MachineLearning #FraudDetection #DSA #BinaryTrees #TreeTraversal #LeetCode #Trigonometry #ComputerAptitude #CPlusPlus #GitHub
